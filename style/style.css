@@ -82,14 +82,16 @@
           font-weight: bold;
       }
 
-      .feature-text p{
-          font-size: 24px;
-          color: #252432;
-          margin: 23px 0;
-      }
+     
       .feature-image img {
           border-radius: 48px;
           width: 403px;
+      }
+
+       .feature-text p{
+          font-size: 24px;
+          color: #252432;
+          margin: 23px 0;
       }
 
       /* stats section */
