@@ -132,14 +132,16 @@
           margin: 137px auto;
           text-align: center;
       }
-      .testimonials-grid{
-          display: flex;
-          gap: 20px;
-      }
+     
       .testimonials-title{
           font-size: 42px;
           font-weight: bold;
           margin-bottom: 50px;
+      }
+
+      .testimonials-grid{
+          display: flex;
+          gap: 20px;
       }
 
       .testimonial-card{
