@@ -95,6 +95,10 @@
       }
 
       /* stats section */
+       .stats-title{
+          font-size: 38px;
+          font-weight: bold;
+      }
       .stats-section{
           width: 1140px;
           height: 306px;
@@ -104,10 +108,7 @@
           padding: 50px 80px;
           border-radius: 50px;
       }
-      .stats-title{
-          font-size: 38px;
-          font-weight: bold;
-      }
+     
       .stats-container{
           display: flex;
           text-align: center;
